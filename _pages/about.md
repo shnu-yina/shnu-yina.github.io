@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-胡熠娜，博士，环境与地理科学学院副教授。XXX
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+胡熠娜，博士，环境与地理科学学院副教授。主要从事景观格局与社会-生态过程领域的研究，任中国生态学会青年工作委员会副秘书长、《Human and Ecological Risk Assessment》副主编、《生态学报》青年编委。获国家自然科学基金青年基金、科技部重点研发计划子课题，发表国内外期刊论文50余篇，含1篇Nature旗下期刊论文。获上海市师范院校智慧教学大赛一等奖、校青教赛一等奖等教学荣誉5项。自2021年以来，指导本科生以第一作者发表3篇学术论文；培养1名上海市优秀本科毕业生，培育1篇校级优秀本科毕业论文；指导本科生在节能减排社会实践与科技竞赛、创新发明大赛等国家级/市级学科竞赛中获奖11项。
 
 我的研究领域包括：
-- 景观格局
-- 社会-生态过程
-  
+- 生态系统服务
+- 城市生态学
+- 综合自然地理学
 
 <span class='anchor' id='-xl'></span>
 
