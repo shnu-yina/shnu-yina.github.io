@@ -25,9 +25,9 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "上海师范大学"
   location         : "上海"
-  employer         : ""
+  employer         : # ""
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : # ""
   email            : "huyina@shnu.edu.cn"
   researchgate     : ""
   uri              : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shnu-yina"
+  github           : # "shnu-yina"
   google_plus      :
   keybase          :
   instagram        :
