@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-胡熠娜，博士，环境与地理科学学院副教授。主要从事景观格局与社会-生态过程领域的研究，任中国生态学会青年工作委员会副秘书长、《Human and Ecological Risk Assessment》副主编、《生态学报》青年编委。获国家自然科学基金青年基金、科技部重点研发计划子课题，发表国内外期刊论文50余篇，含1篇Nature旗下期刊论文。获上海市师范院校智慧教学大赛一等奖、校青教赛一等奖等教学荣誉5项。自2021年以来，指导本科生以第一作者发表3篇学术论文；培养1名上海市优秀本科毕业生，培育1篇校级优秀本科毕业论文；指导本科生在节能减排社会实践与科技竞赛、创新发明大赛等国家级/市级学科竞赛中获奖11项。
+胡熠娜，博士，环境与地理科学学院副教授。2021年在<a href="http://www.ues.pku.edu.cn/old/szdw/qbjs/w/311950.htm" target="_blank">`王仰麟教授`</a>与<a href="http://www.ues.pku.edu.cn/jszy/pj/pjgrjl/47d5081a72b1402693d0ef0eac835be3.htm" target="_blank">`彭建教授`</a>指导下于北京大学获得博士学位，期间曾前往美国亚利桑那州立大学美国两院院士<a href="https://search.asu.edu/profile/1227885" target="_blank">`Billie Turner教授`</a>课题组进行联合培养。现主要从事景观格局与社会-生态过程领域的研究，发表国内外期刊论文50余篇，含1篇Nature旗下期刊论文。
+
+目前任中国生态学会青年工作委员会`副秘书长`、《Human and Ecological Risk Assessment》`副主编`、《生态学报》`青年编委`。获国家自然科学基金青年基金、科技部重点研发计划子课题，获上海市师范院校智慧教学大赛一等奖、校青教赛一等奖等教学荣誉5项。
+
+自2021年以来，指导本科生以第一作者发表3篇学术论文；培养1名上海市优秀本科毕业生，培育1篇校级优秀本科毕业论文；指导本科生在节能减排社会实践与科技竞赛、创新发明大赛等国家级/市级学科竞赛中获奖11项。
 
 我的研究领域包括：
 - 生态系统服务
@@ -27,9 +31,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2015.09 – 2020.08*, 北京大学         博士 (导师：王仰麟、<a href="http://www.ues.pku.edu.cn/jszy/pj/pjgrjl/47d5081a72b1402693d0ef0eac835be3.htm" target="_blank">彭建</a>教授) 
-- *2018.09 – 2019.10*, 亚利桑那州立大学  联合培养 (导师: <a href="https://search.asu.edu/profile/1227885" target="_blank">Billie Turner</a>教授)
-- *2011.09 – 2015.06*, 武汉大学         学士 (毕设导师：<a href="http://www.ues.pku.edu.cn/jszy/pj/pjgrjl/47d5081a72b1402693d0ef0eac835be3.htm" target="_blank">苏世亮</a>教授)
+- *2015.09 – 2020.08*, 北京大学         博士 (导师：王仰麟、彭建教授) 
+- *2018.09 – 2019.10*, 亚利桑那州立大学  联合培养 (导师: Billie Turner教授)
+- *2011.09 – 2015.06*, 武汉大学         学士 (毕设导师：苏世亮教授)
 
 <span class='anchor' id='-lwzl'></span>
 
