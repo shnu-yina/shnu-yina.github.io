@@ -35,6 +35,15 @@ redirect_from:
 - *2018.09 – 2019.10*, 亚利桑那州立大学  联合培养 (导师: Billie Turner教授)
 - *2011.09 – 2015.06*, 武汉大学         学士 (毕设导师：苏世亮教授)
 
+<span class='anchor' id='-xshy'></span>
+
+# 💻 学术兼职
+
+- 2025-至今，《生态学报》 `青年编委`
+- 2024-至今，《Human and Ecological Risk Assessment》 `副主编`
+- 2024-至今，中国生态学会青年工作委员会 `副秘书长`
+
+
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 发表论文
@@ -97,20 +106,11 @@ redirect_from:
 
 <span class='anchor' id='-xshy'></span>
 
-# 💻 学术兼职
-
-- 2025-至今，《生态学报》 `青年编委`
-- 2024-至今，《Human and Ecological Risk Assessment》 `副主编`
-- 2024-至今，中国生态学会青年工作委员会 `副秘书长`
-
-<span class='anchor' id='-xshy'></span>
-
 # 📚 承担课程
 
 - 2023.1-至今，**景观与区域生态学**（3学分），本科生课程
 - 2022.1-至今，**地理信息系统原理**（3学分），本科生课程
 - 2021.9-至今，**地理科学导论**（3学分），本科生课程
-
 
 <span class='anchor' id='-xshy'></span>
 
