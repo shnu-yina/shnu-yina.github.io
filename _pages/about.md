@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-胡熠娜，博士，环境与地理科学学院副教授。2021年在<a href="http://www.ues.pku.edu.cn/old/szdw/qbjs/w/311950.htm" target="_blank">`王仰麟教授`</a>与<a href="http://www.ues.pku.edu.cn/jszy/pj/pjgrjl/47d5081a72b1402693d0ef0eac835be3.htm" target="_blank">`彭建教授`</a>指导下于北京大学获得博士学位，期间曾前往美国亚利桑那州立大学美国两院院士<a href="https://search.asu.edu/profile/1227885" target="_blank">`Billie Turner教授`</a>课题组进行联合培养。现主要从事景观格局与社会-生态过程领域的研究，发表国内外期刊论文50余篇，含1篇Nature旗下期刊论文。
+胡熠娜，博士，环境与地理科学学院副教授。2021年在<a href="http://www.ues.pku.edu.cn/old/szdw/qbjs/w/311950.htm" target="_blank">`王仰麟教授`</a>与<a href="http://www.ues.pku.edu.cn/jszy/pj/pjgrjl/47d5081a72b1402693d0ef0eac835be3.htm" target="_blank">`彭建教授`</a>指导下于北京大学获得博士学位，期间曾前往美国两院院士<a href="https://search.asu.edu/profile/1227885" target="_blank">`Billie Turner教授`</a>课题组进行联合培养。现主要从事景观格局与社会-生态过程领域的研究，发表国内外期刊论文50余篇，含1篇Nature旗下期刊论文。
 
 目前任中国生态学会青年工作委员会`副秘书长`、《Human and Ecological Risk Assessment》`副主编`、《生态学报》`青年编委`。获国家自然科学基金青年基金、科技部重点研发计划子课题，获上海市师范院校智慧教学大赛一等奖、校青教赛一等奖等教学荣誉5项。
 
@@ -95,4 +95,20 @@ redirect_from:
 - 2023-2024，**上海高校市级重点课程**，地理科学导论（参与）
 - 2019-2021，**国家自然科学基金国际（地区）合作与交流项目**（41911530080），陆-河交界面社会-经济-环境权衡管理（参与）
 
+<span class='anchor' id='-xshy'></span>
 
+# 💻 学术兼职
+
+- 2025-至今，《生态学报》 `青年编委`
+- 2024-至今，《Human and Ecological Risk Assessment》 `副主编`
+- 2024-至今，中国生态学会青年工作委员会 `副秘书长`
+
+<span class='anchor' id='-xshy'></span>
+
+# 📚 承担课程
+
+
+
+<span class='anchor' id='-xshy'></span>
+
+# 🎓 学生指导
