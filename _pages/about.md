@@ -27,16 +27,18 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2015.09 – 2020.08*, 北京大学         博士 (导师：王仰麟、彭建教授) 
-- *2018.09 – 2019.10*, 亚利桑那州立大学  联合培养 (导师: Billie Turner)
-- *2011.09 – 2015.06*, 武汉大学         学士
- 
+- *2015.09 – 2020.08*, 北京大学         博士 (导师：王仰麟、<a href="http://www.ues.pku.edu.cn/jszy/pj/pjgrjl/47d5081a72b1402693d0ef0eac835be3.htm" target="_blank">彭建</a>教授) 
+- *2018.09 – 2019.10*, 亚利桑那州立大学  联合培养 (导师: <a href="https://search.asu.edu/profile/1227885" target="_blank">Billie Turner</a>教授)
+- *2011.09 – 2015.06*, 武汉大学         学士 (毕设导师：<a href="http://www.ues.pku.edu.cn/jszy/pj/pjgrjl/47d5081a72b1402693d0ef0eac835be3.htm" target="_blank">苏世亮</a>教授)
+
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
 
 ### 英文
 ---
+
+* Denotes the `Corresponding author.`
 
 - `Hu, Y.`, Connor, D. S., Stuhlmacher, M., Peng J.*, Turner, B. L. More urbanization, more polarization: Evidence from two decades of urban expansion in China. **npj Urban Sustainability**, 2024, 4, 33.
 - `Hu, Y.*`., Zhang, J., Yang, Y., Hu, T., Wang, S. Integrating supply and beneficiaries into assessing the benefit of water purification service: A spatial flow perspective. **Landscape Ecology**, 2024, 39, 200.
