@@ -35,7 +35,7 @@ redirect_from:
 - *2018.09 – 2019.10*, 亚利桑那州立大学  联合培养 (导师: Billie Turner教授)
 - *2011.09 – 2015.06*, 武汉大学         学士 (毕设导师：苏世亮教授)
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-xsjz'></span>
 
 # 💻 学术兼职
 
@@ -44,7 +44,7 @@ redirect_from:
 - 2024-至今，中国生态学会青年工作委员会 `副秘书长`
 
 
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-fblw'></span>
 
 # 📝 发表论文
 
@@ -92,7 +92,7 @@ redirect_from:
 - 2023 **上海师范大学暑期社会实践** `优秀指导教师`
 - 2020 `景观生态学笃学奖`
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-kyxm'></span>
 
 # 🏛️ 科研项目
 
@@ -104,7 +104,7 @@ redirect_from:
 - 2023-2024，**上海高校市级重点课程**，地理科学导论（参与）
 - 2019-2021，**国家自然科学基金国际（地区）合作与交流项目**（41911530080），陆-河交界面社会-经济-环境权衡管理（参与）
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-cdkc'></span>
 
 # 📚 承担课程
 
@@ -112,7 +112,7 @@ redirect_from:
 - 2022.1-至今，**地理信息系统原理**（3学分），本科生课程
 - 2021.9-至今，**地理科学导论**（3学分），本科生课程
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-xszd'></span>
 
 # 🧑‍🎓 学生指导
 

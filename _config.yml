@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "胡熠娜"
-description              : "生态系统服务"
+description              : #"生态系统服务"
 repository               : "shnu-yina/shnu-yina.github.io"
 google_scholar_stats_use_cdn : false
 

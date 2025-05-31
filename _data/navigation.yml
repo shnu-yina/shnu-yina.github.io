@@ -6,14 +6,20 @@ main:
   - title: "学历"
     url: "/shnu-yina.github.io/#-xl"
 
-  - title: "论文专利"
-    url: "/shnu-yina.github.io/#-lwzl"
+  - title: "学术兼职"
+    url: "/shnu-yina.github.io/#-xsjz"
+
+  - title: "发表论文"
+    url: "/shnu-yina.github.io/#-fblw"
 
   - title: "荣誉奖项"
     url: "/shnu-yina.github.io/#-ryjx"
 
-  - title: "学术会议"
-    url: "/shnu-yina.github.io/#-xshy"
+  - title: "科研项目"
+    url: "/shnu-yina.github.io/#-kyxm"
 
-  - title: "工作实习"
-    url: "/shnu-yina.github.io/#-gzsx"
+  - title: "承担课程"
+    url: "/shnu-yina.github.io/#-cdkc"
+
+  - title: "学生指导"
+    url: "/shnu-yina.github.io/#-xszd"
