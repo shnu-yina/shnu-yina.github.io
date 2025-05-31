@@ -28,7 +28,7 @@ redirect_from:
 
 # 🎓 学历
 - *2015.09 – 2020.08*, 北京大学         博士 (导师：王仰麟、彭建教授) 
-- *2018.09 – 2019.10*, 亚利桑那州立大学  联合培养(导师: Billie Turner)
+- *2018.09 – 2019.10*, 亚利桑那州立大学  联合培养 (导师: Billie Turner)
 - *2011.09 – 2015.06*, 武汉大学         学士
  
 <span class='anchor' id='-lwzl'></span>
@@ -37,13 +37,8 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
--	`Yina Hu`, XXX. Paper Name. *npj*, 2022, 22(9): 3587. 
-
-</div>
-</div>
+- `Hu, Y.`, Connor, D. S., Stuhlmacher, M., Peng J.*, Turner, B. L. More urbanization, more polarization: Evidence from two decades of urban expansion in China. **npj Urban Sustainability**, 2024, 4, 33.
 
 
 ### 中文
