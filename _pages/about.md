@@ -39,6 +39,20 @@ redirect_from:
 ---
 
 - `Hu, Y.`, Connor, D. S., Stuhlmacher, M., Peng J.*, Turner, B. L. More urbanization, more polarization: Evidence from two decades of urban expansion in China. **npj Urban Sustainability**, 2024, 4, 33.
+- `Hu, Y.*`., Zhang, J., Yang, Y., Hu, T., Wang, S. Integrating supply and beneficiaries into assessing the benefit of water purification service: A spatial flow perspective. **Landscape Ecology**, 2024, 39, 200.
+- Xue, F., Yang, Y., `Hu, Y.*`. Integrating supply and benefits of ecosystem services into ecological security pattern: A spatial flow perspective. **Ecological Indicators**, 2024, 166, 112455. 
+- He, T., Zhou, R., Ma, Q., Li, C., Liu, D., Fang, X., `Hu, Y.`, Gao, J. Quantifying the effects of urban development intensity on the surface urban heat island across building climate zones. **Applied Geography**, 2023, 158: 103052.
+- Peng, J., Hu, T., Qiu, S., `Hu, Y.`, Dong, J., Lin, Y. Balancing the effects of forest conservation and restoration on South China karst greening. **Earth's Future**, 2023, 11, e2023EF003487.
+- Hu, T., Dong, J., `Hu, Y.`, Qiu, S., Yang, Z., Zhao, Y., Cheng, X., Peng, J. Stage response of vegetation dynamics to urbanization in megacities: A case study of Changsha City, China. **Science of the Total Environment**, 2023, 858: 159659.
+- Hu, T., `Hu, Y.`, Dong, J., Qiu, S., Peng, J. Integrating Sentinel-1/2 Data and Machine Learning to Map Cotton Fields in Northern Xinjiang, China. **Remote Sensing**, 2022, 13(23): 4819.
+- Stuhlmacher, M., Georgescu, M., Turner, B. L., `Hu, Y.`, Goldblatt, R., Gupta, S., Frazier, A. E., Kim, Y., Balling, R. C., Clinton, N. Are global cities homogenizing? An assessment of urban form and heat island implications. **Cities**, 2022, 126: 103705.
+- Wang, M., Peng, J., `Hu, Y.`, Du, Y., Qiu, S., Zhao, M. Scale consistency for investigating urbanization level, vegetation coverage, and their correlation. **Urban Forestry & Urban Greening**, 2021, 59: 126998.
+- Peng, J., `Hu, Y.`, Liu, Y., Dong, J., Mao, Q, Wu, J. Linking spatial differentiation with sustainability management: Academic contributions and research directions of physical geography in China. **Progress of Physical Geography**, 2020, 44(1): 14-30
+- Peng, J., Liu, Q., Blaschke, T., Zhang, Z., Liu, Y., `Hu, Y.`, Wang, M., Xu, Z., Wu, J. Integrating land development size, pattern, and density to identify urban-rural fringe in a metropolitan region. **Landscape Ecology**, 2020, 35(9): 2045-2059.
+- Peng, J., Lin, H., Chen, Y., Blaschke, T., Luo, L., Xu, Z., `Hu, Y.`, Zhao, M., Wu, J. Spatiotemporal evolution of urban agglomerations in China during 2000-2012: A nighttime light approach. **Landscape Ecology**, 2020, 35(2): 421-434.
+- Peng, J., Hu, X., Qiu, S., `Hu, Y.`, Meersmans, J., Liu, Y. Multifunctional landscapes identification and associated development zoning in mountainous area. **Science of the Total Environment**, 2019, 660, 765-775.
+- `Hu, Y.`, Peng, J., Liu, Y., Tian, L. Integrating ecosystem services trade-offs with paddy land-to-dry land decisions: A scenario approach in Erhai Lake Basin, southwest China. **Science of the Total Environment**, 2018, 625: 849.
+- Peng, J., `Hu, Y.`, Liu, Y., Ma, J., Zhao, S. A new approach for urban-rural fringe identification: Integrating impervious surface area and spatial continuous wavelet transform. **Landscape and Urban Planning**, 2018, 175: 72-79.  
 
 
 ### 中文
