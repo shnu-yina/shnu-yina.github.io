@@ -53,6 +53,8 @@ redirect_from:
 
 - \* Denotes the `Corresponding author.`
 
+- Xue, F., `Hu, Y.*`, Hu, T., Zhou, R., Ma, Q., Fang, X. Urbanization intensified the trade-off between food security and water quality security in the Yangtze River Delta. **Earth’s Future**, 13, e2025EF006382.
+- Cai, L., Wang, C., Xue, F., Xiao, L., `Hu, Y.*`. Integrating ecological security pattern and sustainable development goals: A multi-scale framework for arid cities. **Land Degradation & Development**, 2025, 0: 1-14.
 - `Hu, Y.`, Connor, D. S., Stuhlmacher, M., Peng J.*, Turner, B. L. More urbanization, more polarization: Evidence from two decades of urban expansion in China. **npj Urban Sustainability**, 2024, 4, 33.
 - `Hu, Y.*`., Zhang, J., Yang, Y., Hu, T., Wang, S. Integrating supply and beneficiaries into assessing the benefit of water purification service: A spatial flow perspective. **Landscape Ecology**, 2024, 39, 200.
 - Xue, F., Yang, Y., `Hu, Y.*`. Integrating supply and benefits of ecosystem services into ecological security pattern: A spatial flow perspective. **Ecological Indicators**, 2024, 166, 112455. 
